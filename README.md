@@ -40,7 +40,7 @@ If you make use of the code, models, or pipeline, please cite our paper:
   title={Discord Questions: A Computational Approach To Diversity Analysis in News Coverage},
   author={Philippe Laban and Chien-Sheng Wu and Lidiya Murakhovs'ka and Xiang 'Anthony' Chen and Caiming Xiong
 },
-  booktitle={Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, Findings},
+  booktitle={Proceedings of the 2022 Findings of Empirical Methods in Natural Language Processing},
   volume={1},
   year={2021}
 }
