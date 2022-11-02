@@ -38,11 +38,10 @@ If you make use of the code, models, or pipeline, please cite our paper:
 ```
 @inproceedings{laban2022discord_questions,
   title={Discord Questions: A Computational Approach To Diversity Analysis in News Coverage},
-  author={Philippe Laban and Chien-Sheng Wu and Lidiya Murakhovs'ka and Xiang 'Anthony' Chen and Caiming Xiong
-},
+  author={Philippe Laban and Chien-Sheng Wu and Lidiya Murakhovs'ka and Xiang 'Anthony' Chen and Caiming Xiong},
   booktitle={Proceedings of the 2022 Findings of Empirical Methods in Natural Language Processing},
   volume={1},
-  year={2021}
+  year={2022}
 }
 ```
 
@@ -50,6 +49,3 @@ If you make use of the code, models, or pipeline, please cite our paper:
 
 If you'd like to contribute, or have questions or suggestions, reach out in the Issues, or by email: plaban@salesforce.com
 All contributions welcome, for example if you want to apply the Discord Questions pipeline to a new corpus of text, or want to improve pipeline components.
-
-
-
