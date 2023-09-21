@@ -1,4 +1,4 @@
-# Near-Negative Distinction
+# Discord Questions
 
 Code repository for the paper: [Discord Questions: A Computational Approach To Diversity Analysis in News Coverage](https://tingofurro.github.io/pdfs/emnlp2022_discord_questions.pdf) accepted as a Findings paper at EMNLP 2022.
 
